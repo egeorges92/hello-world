@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi humans!
+Eric's here. Just to tell Hello World!
